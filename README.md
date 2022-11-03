@@ -1,3 +1,3 @@
 # GPSLocation
 
- Android GSP Location 
+ Android GPS Location 
